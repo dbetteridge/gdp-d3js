@@ -1,0 +1,20 @@
+.card {
+    padding: 5px;
+}
+
+.card:hover {
+    fill: blue;
+}
+
+.tooltip {
+    background-color: lightgray;
+    height: 100px;
+    width: auto;
+    border-radius: 5px;
+    padding: 0.5%;
+}
+
+.frame {
+    margin:auto;
+    text-align: center;
+}
